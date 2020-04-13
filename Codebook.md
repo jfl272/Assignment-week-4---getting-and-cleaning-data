@@ -67,3 +67,7 @@ tBodyAccMean
 tBodyAccJerkMean
 tBodyGyroMean
 tBodyGyroJerkMean
+
+# Transformations:
+
+- The transformation of the original data into a clean and tidy data set is explained in the run_analysis.R file along with the code.
